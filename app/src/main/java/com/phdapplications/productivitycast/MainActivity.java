@@ -1,4 +1,4 @@
-package com.kennyhunter.tvtrack;
+package com.phdapplications.productivitycast;
 
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
