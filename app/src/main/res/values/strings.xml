@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Productivity Cast</string>
+    <string name="app_name">Productivity</string>
     <string name="cast_app_id" translatable="false">7ADD6D3F</string>
     <string name="cast_namespace" translatable="false">urn:x-cast:com.example.cast.productivity</string>
     <string name="action_settings">Settings</string>
